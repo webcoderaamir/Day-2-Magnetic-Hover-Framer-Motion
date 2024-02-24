@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
+@font-face {
+    font-family: 'ClashDisplay-Variable';
+    src: url("../src/assets/font/ClashDisplay-Variable.ttf") format("truetype");
+}
+
+.nav {
+    font-family: 'ClashDisplay-Variable';
+}
+
